@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # Привет! Меня зовут Матлуба 👋
 
 
@@ -18,3 +20,4 @@
 ## Контакты
 - 📧 Email: [murpur61@gmail.com](mailto:murpur61@gmail.com)
 - 💬 Telegram: [@murkamt](https://t.me/murkamt)
+</div>

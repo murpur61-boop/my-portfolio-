@@ -3,7 +3,7 @@
 # Привет! Меня зовут Матлуба 👋
 
 
-<img src="photo_5449457056831633877_x.jpg" width="250">
+<img src="photo_5449457056831633877_x.jpg" width="250" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
 
 
 ## О себе

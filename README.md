@@ -2,9 +2,11 @@
 
 # Привет! Меня зовут Матлуба 👋
 
-
 <img src="photo_5449457056831633877_x.jpg" width="250" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
 
+</div>
+
+<div style="margin-left: 20px;">
 
 ## О себе
 - Живу в Санкт Петербурге
@@ -20,4 +22,5 @@
 ## Контакты
 - 📧 Email: [murpur61@gmail.com](mailto:murpur61@gmail.com)
 - 💬 Telegram: [@murkamt](https://t.me/murkamt)
+
 </div>
